@@ -1,0 +1,6 @@
+{
+  "name": "Lector Analytics Dashboard",
+  "description": "Modern business analytics dashboard with real-time earnings charts, traffic insights, revenue metrics, activity timelines, and interactive deals management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
